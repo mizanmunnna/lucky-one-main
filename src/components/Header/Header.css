@@ -1,0 +1,22 @@
+.header{
+    background-color: rgb(252, 237, 216);
+    height: 100px;
+    align-items: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.header-top{
+    color:rgb(214, 78, 37);
+    font-weight: 900;
+    font-stretch: semi-expanded;
+    
+    
+    
+
+}
+.header-bottom{
+    color:rgb(71, 3, 40);
+    font-weight: 100;
+    font-style:inherit;
+    
+}
