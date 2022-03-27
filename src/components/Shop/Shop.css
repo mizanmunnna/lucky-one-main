@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
     padding-left: 50px;
+    
 }
 .products-container{
     display: grid;

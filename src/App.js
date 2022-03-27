@@ -13,6 +13,7 @@ function App() {
       <Header></Header>
       <Shop></Shop>
       <Question></Question>
+
       <Footer></Footer>
     </div>
   );
