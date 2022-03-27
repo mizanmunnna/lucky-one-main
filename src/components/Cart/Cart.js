@@ -6,7 +6,7 @@ const Cart = ({ cart }) => {
         <div>
             <h1 className='cart'>Selected Items</h1>
             <h3>{cart.length}</h3>
-            console.log(cart);
+
         </div>
     );
 };
