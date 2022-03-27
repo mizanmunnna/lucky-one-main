@@ -5,7 +5,8 @@ const Cart = ({ cart }) => {
     return (
         <div>
             <h1 className='cart'>Selected Items</h1>
-            <p>{cart.name}</p>
+            <h3>{cart.length}</h3>
+            console.log(cart);
         </div>
     );
 };
